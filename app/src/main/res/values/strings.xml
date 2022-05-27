@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ABrowser</string>
+    <string name="hint_url">Search or type URL</string>
+</resources>
